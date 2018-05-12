@@ -1,4 +1,8 @@
 _repo: Polite-Satires-Containing-The-Unknown-Hand-The-Volcanic-Island-Square-Pegs_49993
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49993-h/images/cover.jpg
 creator:
   author:
     agent_name: Bax, Clifford
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '42120'
     url: http://www.gutenberg.org/2009/agents/42120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49993#Polite-Satires-Containing-The-Unknown-Hand-The-Volcanic-Island-Square-Pegs
 gutenberg_issued: '2015-09-17'
 gutenberg_type: Text
 identifiers:
